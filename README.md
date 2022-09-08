@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Any beginner level ML projects
 - 🤔 I’m looking for help with ... Natural language processing
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ...<a href=”https://www.linkedin.com/in/michael-wise-3a831134/"><img align=”left” src=”https://raw.githubusercontent.com/mwmikewise/mwmikewise/main/images/linkedin.svg" alt=”Michael Wise | LinkedIn” width=”21px”/></a>
+- 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/michael-wise-3a831134)
 -->
