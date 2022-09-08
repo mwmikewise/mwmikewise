@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Natural language processing
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ...[LinkedIn](https://www.linkedin.com/in/michael-wise-3a831134)
-[email](mwmikewise@gmail.com)
 -->
